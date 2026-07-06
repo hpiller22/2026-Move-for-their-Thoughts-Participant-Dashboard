@@ -5,9 +5,9 @@ Dashboard Link: https://datastudio.google.com/reporting/7773b6b7-0d76-486e-af35-
 Campaign Page: https://www.fortheirthoughts.org/moveftt <br/>
 
 # Technology Used for the Dashboard
-- Design: Figma 
-- Backend Database: Google Sheets
-- Frontend: Data Studio (formerly known as Google Looker)
+- **Design: Figma** 
+- **Backend Database: Google Sheets**
+- **Frontend: Data Studio (formerly known as Google Looker)**
 
 Additionally, Google Sheets was connected via an external API to an form tool for participants. 
 
