@@ -1,5 +1,5 @@
 # 2026 Move for their Thoughts Participant Dashboard
-Move for Their Thoughts is a yearly campaign that encourages people to move across the country. This campaign is hosted by the For Their Thoughts Foundation, a non-profit focused on bringing awareness towards dementia. 
+Move for Their Thoughts is a yearly campaign that encourages people to move across the country. This campaign is hosted by the [For Their Thoughts Foundation](https://www.fortheirthoughts.org/), a non-profit focused on bringing awareness towards dementia. 
 
 Dashboard Link: https://datastudio.google.com/reporting/7773b6b7-0d76-486e-af35-2789e9d8e981 <br/>
 Campaign Page: https://www.fortheirthoughts.org/moveftt <br/>
