@@ -11,6 +11,9 @@ Campaign Page: https://www.fortheirthoughts.org/moveftt <br/>
 
 Additionally, Google Sheets was connected via an external API to an form tool for participants to input their data. 
 
+**Technical Diagram**
+<img width="471" height="124" alt="Screenshot 2026-07-08 205720" src="https://github.com/user-attachments/assets/670c6cac-cd7c-4341-bd54-f191f7291317" />
+
 # Impact 
 There were 197 people registered for the campaign across the United States. Throughout the 5 weeks, these participants logged a total of 3,326 activties. Of those activities, there were 9,667 miles logged. I provided support throughout the campaign and there were no disruptions in the dashboard throughout the 5 weeks. 
 
